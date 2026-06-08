@@ -4,6 +4,8 @@ Project Objective
 Develop an automated Car License Plate Recognition (ALPR) system using pretrained YOLOv8 models (YOLOv8n, YOLOv8s, and YOLOv8m) for license plate detection and OCR for character recognition. The project compares different YOLOv8 variants in terms of accuracy, speed, and deployment efficiency.
 
 Dataset Used
+
+
 Dataset: Andrew Car License Plate Dataset
 Total Images: 433 annotated vehicle images
 Classes: License Plate

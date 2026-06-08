@@ -28,14 +28,14 @@ YOLOv8m handled challenging license plate images more effectively but required h
 
 Output Flow:
 
-Input Vehicle Image
-        ↓
-YOLOv8 License Plate Detection
-        ↓
-Crop Detected Plate
-        ↓
-OCR Character Recognition
-        ↓
+Input Vehicle Image ->
+        
+YOLOv8 License Plate Detection ->
+        
+Crop Detected Plate ->
+        
+OCR Character Recognition ->
+        
 Extracted License Plate Number
 
 This project demonstrates an efficient deep learning-based solution for automatic license plate detection and recognition suitable for intelligent transportation and surveillance systems.
